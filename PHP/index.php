@@ -1,3 +1,8 @@
+<?php
+        echo "Hello PHP! <br>";
+        echo 'Hello PHP! <br>';
+        echo "Hello " . ' PHP ' . "!"; 
+?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -6,6 +11,20 @@
         <title>Document</title>
     </head>
     <body>
-        Hello World
+
+        <?php
+            echo "Hello PHP! <br>";
+            echo 'Hello PHP!;<br>';
+            echo "Hello " . ' PHP ' . 
+            "!"; 
+        ?>
+
     </body>
-</html>
+    </html>
+
+
+     <?php
+        echo "Hello PHP! <br>";
+        echo 'Hello PHP! <br>';
+        echo "Hello " . ' PHP ' . "!";
+    ?>
