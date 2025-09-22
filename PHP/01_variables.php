@@ -62,5 +62,3 @@ echo "<br>";
 var_dump(isset($country));
 echo "<br>";
 var_dump(isset($salary));
-
-
